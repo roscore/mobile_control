@@ -10,22 +10,13 @@
 ### REQUIREMENTS
 
 - Ubuntu OS on Raspberry Pi
+- ROS1 or ROS2
 - Using pigpio (pigpio daemon) 
 
 ### INSTALLATION
 
 #### Notes
 
-For M1 Macs, the following packages are currently unavailable:
-
-- SciPy and dependent packages
-- Server/Client TensorBoard packages
-
-When installing pip packages in a virtual environment, you may need to specify `--target` as follows:
-
-```
-% pip install --upgrade -t "${VIRTUAL_ENV}/lib/python3.8/site-packages/" PACKAGE_NAME
-```
 
 ### ISSUES AND FEEDBACK
 
