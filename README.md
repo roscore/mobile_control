@@ -17,19 +17,19 @@
 
 - Download and install latest version
 
-'''
-wget https://github.com/joan2937/pigpio/archive/master.zip
-unzip master.zip
-cd pigpio-master
-make
-sudo make install
-'''
+  ```
+  wget https://github.com/joan2937/pigpio/archive/master.zip
+  unzip master.zip
+  cd pigpio-master
+  make
+  sudo make install
+  ```
 
 #### If the Python of the install fails it may be because you need the setup tools.
 
-'''
-sudo apt install python-setuptools python3-setuptools
-'''
+  ```
+  sudo apt install python-setuptools python3-setuptools
+  ```
 
 - Using shell script file
 
