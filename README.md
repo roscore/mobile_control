@@ -25,7 +25,7 @@
   sudo make install
   ```
 
-#### If the Python of the install fails it may be because you need the setup tools.
+  #### If the Python of the install fails it may be because you need the setup tools.
 
   ```
   sudo apt install python-setuptools python3-setuptools
